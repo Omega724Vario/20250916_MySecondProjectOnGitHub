@@ -6,3 +6,5 @@ int a = 1, b = 2;
 int start = 0;
 int stopp = 100;
 int minus = -5;
+
+Console.WriteLine("es geht nu imma ned");
